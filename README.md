@@ -4,7 +4,7 @@
 
 ## Analysis and visualization of musical tastes by artists, songs, genres, lyrics, demographics, race, and gender
 
-**View the [Deployed app on Heroku]
+**View the [Deployed app on Heroku] : https://music-map-trends.herokuapp.com/static/Index.html
 
 ### Outline
 
