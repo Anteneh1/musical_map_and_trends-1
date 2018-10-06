@@ -1,10 +1,10 @@
-#  Popular Music Insights
+# Music Map and Trends
 
 ![Concert](readmeimg/concert.png)
 
 ## Analysis and visualization of musical tastes by artists, songs, genres, lyrics, demographics, race, and gender
 
-**View the [Deployed app on Heroku](https://mighty-taiga-44531.herokuapp.com/static/Index.html).**
+**View the [Deployed app on Heroku]
 
 ### Outline
 
