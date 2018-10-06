@@ -10,6 +10,11 @@ flask_debugging = True # Set to True when in Flask debug mode (DISABLE BEFORE DE
 
 # Initialize Flask
 app = Flask(__name__)
+# 
+# @app.route("/")
+# def welcome():
+#     # Return to the dashboard
+#  return render_template("static/index.html")
 
 # Route that outputs database results
 @app.route("/getCitiesFromMongo")
@@ -55,9 +60,9 @@ def connectToMongo():
 
         Returns: db -- database connection object
     """
-    mongodb_uri = "mongodb://0920_kd:GW@2018_rn@ds223653.mlab.com:23653"
+    mongodb_uri =  "mongodb://localhost:27017" or "mongodb://0920_kd:Oct2018@ds223763.mlab.com:23763/heroku_9ck3snh5"
     client = pymongo.MongoClient(mongodb_uri)
-    return client.insights_db  # Declare the DB
+    return client.heroku_9ck3snh5  # Declare the DB
 
 #
 # *** Main script execution ***
