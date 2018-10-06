@@ -82,8 +82,6 @@ Data retrieval and analysis of lyrics data supporting the Plotly bubble charts i
 #### Inspiration for map visualization
 * [Spotify Insights Blog](https://insights.spotify.com/us/2016/12/07/musical-map-of-the-world-2-0/)
 
-**[proposal_img](https://github.com/Anaisdg/Popular_Music_Insights/tree/master/proposal_img)**
-* Inspirational images for the project
 
 **[readmeimg](https://github.com/Anaisdg/Popular_Music_Insights/tree/master/readmeimg)**
 * Images used for this Readme
